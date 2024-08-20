@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm an Information Technology student passionate a
 
 ## 📫 How to reach me:
 
-- **Email:** [Your email address]
-- **LinkedIn:** [Alaa Bou Karroum](https://www.linkedin.com/in/alaa-bou-karroum-3236ab25b)
-- **Twitter:** [Your Twitter handle]
+- **Email:** alaabkabk@gmail.com
+- **LinkedIn:** Alaa Bou Karroum
+- (https://www.linkedin.com/in/alaa-bou-karroum-3236ab25b)
 
 ---
 
